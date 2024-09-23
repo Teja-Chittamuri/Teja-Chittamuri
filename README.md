@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Teja Chittamuri</h1>
-<h3 align="center">A Passionate DevOps/SRE Engineer with 2yrs of experience in DevOps Automation, Azure Cloud Migration, Infrastructure Management, Incident Management, and Observability.</h3>
+<h3 align="center">A Passionate DevOps/SRE Engineer with 3.2yrs of experience in DevOps Automation, Azure Cloud Migration, Infrastructure Management, Incident Management, and Observability.</h3>
 
 <img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja-chittamuri&label=Profile%20views&color=0e75b6&style=flat" alt="teja-chittamuri" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes,DevSecOps**
+- 🧑‍💻 I’m currently working as a DevSecops Engineer at Aqua Security.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teja-Chittamuri](https://github.com/Teja-Chittamuri)
 
